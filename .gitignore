@@ -16,3 +16,4 @@ diagnostics/screens/
 diagnostics/screenshots/
 diagnostics/*.err
 diagnostics/*.out
+.gstack/
